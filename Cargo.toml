@@ -1,0 +1,9 @@
+[package]
+name = "splitsi"
+version = "0.1.0"
+authors = ["Ben Berman <ben.m.berman@gmail.com>"]
+
+[dependencies]
+regex = "1"
+lazy_static = "1"
+ansi_term = "0.11"
